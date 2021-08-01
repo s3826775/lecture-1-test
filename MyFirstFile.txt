@@ -1,3 +1,5 @@
 I have a cat.
 
 I love my cat a lot
+
+My cat is fluffy and lazy.
